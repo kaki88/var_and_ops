@@ -47,7 +47,7 @@ var computeExponention = function(a, b) {
  * @return {[integer]}
  */
  
-
+// ..parceque c'est comme ca!
 
 var computeSum = function() {
 
@@ -67,14 +67,10 @@ var computeSum = function() {
  * @return {[number]}
  */
  
+// tadaaaaaaa, bon l'ennoncé etait quand meme pas clair... :/
  
 var shouldComputeDouble = function(number){
-	var a = number;
-    var multiply = function(b){
-    	var a = b*2;
-    	return a;
-    }
-    return multiply(a);
+    return number*2;
 }
 
 
